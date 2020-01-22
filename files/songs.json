@@ -1,0 +1,1065 @@
+{
+	"songs": [{
+			"bundleandroid": 1,
+			"bundleios": 1,
+			"artist": "雷鬼",
+			"name": "宝贝女孩",
+			"coaches": 1,
+			"duration": 169080,
+			"hlsVideo": "/BabyGirl/BabyGirl.m3u8",
+			"dashVideo": "/1950_8a84edf488ff9c10b35dfccd042b591c/1950.mpd",
+			"mp4Video": "/babygirl_576p.mp4",
+			"version": 1478070867865,
+			"avatarNumber": 10,
+			"touchVersion": 1467686603569,
+			"touchCheckSum": "55bbca5b11aa3301db38c13528b9f515c1d02281",
+			"touchVideo": "/touch/babygirl_1467686603569.mp4",
+			"touchDuration": 114000,
+			"touchSize": 7357997,
+			"touchEasy": 2,
+			"touchNormal": 4,
+			"touchHard": 8,
+			"checkSum": "0c2b62373c8511eb43c4b8e0dd5559ee9809228c",
+			"size": 90645482,
+			"tvVideo": "/babygirl_1478070867865/babygirl_tv.mp4",
+			"credits": ["Written by Joachim Svare (ASCAP) and Carsten Lindberg (BMI). Published by Ded Good APM (ASCAP). Courtesy of APM Music. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited."],
+			"songId": "BabyGirl",
+			"available": ["dance", "touch"],
+			"unlockCondition": {
+				"dance": {
+					"condition": "free"
+				},
+				"touch": {
+					"condition": "free"
+				}
+			},
+			"_id": "5dfb3ac5584b7ba5698a1267"
+		}, {
+			"artist": "宝莱坞圣诞老人",
+			"name": "圣诞树",
+			"coaches": 2,
+			"duration": 152480,
+			"hlsVideo": "/BollywoodXmas/BollywoodXmas.m3u8",
+			"dashVideo": "/1966_86f52914c667f69cd1bbe845d9931e30/1966.mpd",
+			"mp4Video": "/bollywoodxmas_576p.mp4",
+			"version": 1478070457410,
+			"tvVideo": "/bollywoodxmas_1478070457410/bollywoodxmas_tv.mp4",
+			"checkSum": "c292faf27deec0b90c897f9490f88d7c8968a005",
+			"size": 80583801,
+			"touchVersion": 1464937225386,
+			"touchCheckSum": "32b48cbc1dfbe7b013ab4fde95572302f7ec4083",
+			"touchVideo": "/touch/bollywoodxmas_1464937225386.mp4",
+			"touchDuration": 106000,
+			"touchSize": 13833379,
+			"touchEasy": 1,
+			"touchNormal": 4,
+			"touchHard": 7,
+			"credits": ["Composed and Produced by Steve Ouimette. Engineering: Steve Ouimette, Cat Gray. Mix: Cat Gray, Steve Ouimette. Vocals: Arpita Chakraborty, Vishal Kothari, Steve Ouimette. Percussion: Cat Gray, Marx-o-lin.  Sitar, synths and other odd instruments: Steve Ouimette. Vocal Contracting: Mervin Mathew. Additional Engineering: Shanu Kumar Sheth. Strings: Bollywood West Players. Orchestrated by Willie Murillo. Recorded at East West Studio by Jeremy Miller. Music supervision: Alkis Argyriadis, Franck Chapelat, Manu Bachet"],
+			"songId": "BollywoodXmas",
+			"available": ["dance", "touch"],
+			"unlockCondition": {
+				"dance": {
+					"condition": "vip"
+				},
+				"touch": {
+					"condition": "vip"
+				}
+			},
+			"_id": "5dfb3ac5584b7ba5698a1269"
+		}, {
+			"bundleandroid": 1,
+			"bundleios": 1,
+			"artist": "雷鬼风暴",
+			"name": "嘣",
+			"coaches": 1,
+			"duration": 139040,
+			"hlsVideo": "/BoomDLC/BoomDLC.m3u8",
+			"dashVideo": "/1969_8f7c8d8e3d3639236365dfee32d37624/1969.mpd",
+			"mp4Video": "/boomdlc_576p.mp4",
+			"version": 1478070903537,
+			"checkSum": "77845b798e7886cb65350d6e8d09f472e1b8c890",
+			"size": 74756526,
+			"tvVideo": "/boomdlc_1478070903537/boomdlc_tv.mp4",
+			"touchDuration": 124000,
+			"touchSize": 10120186,
+			"touchEasy": 2,
+			"touchNormal": 7,
+			"touchHard": 9,
+			"touchVersion": 1470969932442,
+			"touchCheckSum": "84981e1f56a463f3b840f729328ea3bad248da27",
+			"touchVideo": "/touch/boomdlc_1470969932442.mp4",
+			"credits": ["Written by MC Magico (PRS) (C); Alex Wilson (PRS) (C). Published by West One APM (ASCAP). Courtesy of APM Music. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited."],
+			"songId": "BoomDLC",
+			"available": ["dance", "touch"],
+			"unlockCondition": {
+				"dance": {
+					"condition": "vip"
+				},
+				"touch": {
+					"condition": "vip"
+				}
+			},
+			"_id": "5dfb3ac5584b7ba5698a126a"
+		}, {
+			"bundleandroid": 0,
+			"bundleios": 1,
+			"artist": "巫师",
+			"name": "达贡巴",
+			"coaches": 1,
+			"duration": 221840,
+			"hlsVideo": "/ElectroTribalDLC/ElectroTribalDLC.m3u8",
+			"dashVideo": "/2010_ae5ee1743f278df83dce2e6e7872e25f/2010.mpd",
+			"mp4Video": "/electrotribaldlc_576p.mp4",
+			"version": 1478070959320,
+			"avatarNumber": 15,
+			"tvVideo": "/electrotribaldlc_1478070959320/electrotribaldlc_tv.mp4",
+			"checkSum": "a304dff991d27bba041e5890388c3cd28e35217d",
+			"size": 119272648,
+			"touchVersion": 1464937246032,
+			"touchCheckSum": "2e9086ed773c6a6263fb19d0fd13aee1fb87ff50",
+			"touchVideo": "/touch/electrotribaldlc_1464937246032.mp4",
+			"touchDuration": 115000,
+			"touchSize": 8851355,
+			"touchEasy": 3,
+			"touchNormal": 5,
+			"touchHard": 6,
+			"credits": ["Composed by Tom Salta. Published by Ubisoft Music. Courtesy of Ubisoft Music."],
+			"songId": "ElectroTribalDLC",
+			"available": ["dance", "touch"],
+			"unlockCondition": {
+				"dance": {
+					"condition": "free"
+				},
+				"touch": {
+					"condition": "free"
+				}
+			},
+			"_id": "5dfb3ac5584b7ba5698a126b"
+		}, {
+			"bundleandroid": 0,
+			"bundleios": 1,
+			"artist": "英伯斯和科申斯",
+			"name": "无可比拟的感觉",
+			"coaches": 1,
+			"duration": 181040,
+			"hlsVideo": "/FeelSoRight/FeelSoRight.m3u8",
+			"dashVideo": "/2017_0719fa3912a59fb1c2943113ada2fb4c/2017.mpd",
+			"mp4Video": "/feelsoright_576p.mp4",
+			"version": 1471488988392,
+			"avatarNumber": 138,
+			"checkSum": "00d71d982ce46eb5b7620d6f9abf60df6a9617b1",
+			"size": 96798499,
+			"tvVideo": "/feelsoright_1471488988392/feelsoright_tv.mp4",
+			"touchVersion": 1467686610379,
+			"touchCheckSum": "6469766e7fbffa416b3929204b6923a8eeefc44e",
+			"touchVideo": "/touch/feelsoright_1467686610379.mp4",
+			"touchDuration": 112000,
+			"touchSize": 13933373,
+			"touchEasy": 1,
+			"touchNormal": 4,
+			"touchHard": 5,
+			"credits": ["Courtesy of Ubiloud."],
+			"songId": "FeelSoRight",
+			"available": ["dance", "touch"],
+			"unlockCondition": {
+				"dance": {
+					"condition": "free"
+				},
+				"touch": {
+					"condition": "free"
+				}
+			},
+			"_id": "5dfb3ac5584b7ba5698a126c"
+		}, {
+			"bundleandroid": 0,
+			"bundleios": 1,
+			"artist": "世界杯女子乐队",
+			"name": "狂热足球",
+			"coaches": 1,
+			"duration": 143000,
+			"hlsVideo": "/Futebol/Futebol.m3u8",
+			"dashVideo": "/2028_25bb1f6cfbcb6b5b710a60176e1118cd/2028.mpd",
+			"mp4Video": "/futebol_576p.mp4",
+			"version": 1478070974090,
+			"checkSum": "52c6b7ca853ce8cdedfe2fb5eba03d783bf632d7",
+			"size": 76469912,
+			"tvVideo": "/futebol_1478070974090/futebol_tv.mp4",
+			"touchDuration": 111000,
+			"touchSize": 8783375,
+			"touchEasy": 2,
+			"touchNormal": 4,
+			"touchHard": 7,
+			"touchVersion": 1470969939023,
+			"touchCheckSum": "78bfe2b1fa745293fe2c71908c7fb8ae08ef4a8c",
+			"touchVideo": "/touch/futebol_1470969939023.mp4",
+			"credits": ["The World Cup Girls – ''Futebol Crazy'' Written by P. J. Borg. Published by West One APM. Courtesy of APM Music. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited."],
+			"songId": "Futebol",
+			"available": ["dance", "touch"],
+			"unlockCondition": {
+				"dance": {
+					"condition": "vip"
+				},
+				"touch": {
+					"condition": "vip"
+				}
+			},
+			"_id": "5dfb3ac5584b7ba5698a126d"
+		}, {
+			"artist": "女神天团",
+			"name": "魅力无限",
+			"coaches": 1,
+			"duration": 185600,
+			"hlsVideo": "/GlamorousCusto/GlamorousCusto.m3u8",
+			"dashVideo": "/2039_7a7b203893adfcf9b47053a823114b83/2039.mpd",
+			"mp4Video": "/glamorouscusto_576p.mp4",
+			"version": 1478071159299,
+			"checkSum": "fb6f92b9dc29f42f027fd6eb2394a841f4606aee",
+			"size": 99334284,
+			"tvVideo": "/glamorouscusto_1478071159299/glamorouscusto_tv.mp4",
+			"touchVersion": 1470969945673,
+			"touchCheckSum": "5a12a5688988e9aa06053005541748e475d27a45",
+			"touchVideo": "/touch/glamorouscusto_1470969945673.mp4",
+			"touchDuration": 122000,
+			"touchSize": 10932884,
+			"touchEasy": 2,
+			"touchNormal": 4,
+			"touchHard": 6,
+			"credits": ["Composed by Harlin James and Clav. Published by KPM APM (ASCAP). Courtesy of APM Music. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited."],
+			"songId": "GlamorousCusto",
+			"available": ["dance", "touch"],
+			"unlockCondition": {
+				"dance": {
+					"condition": "free"
+				},
+				"touch": {
+					"condition": "free"
+				}
+			},
+			"_id": "5dfb3ac5584b7ba5698a126e"
+		}, {
+			"bundleandroid": 0,
+			"bundleios": 1,
+			"artist": "勃拉姆斯",
+			"name": "第五号匈牙利舞曲",
+			"coaches": 2,
+			"duration": 143720,
+			"hlsVideo": "/HungarianDance/HungarianDance.m3u8",
+			"dashVideo": "/2059_8afc5e949828a0fa70c24bfd89e16750/2059.mpd",
+			"mp4Video": "/hungariandance_576p.mp4",
+			"version": 1478071174327,
+			"checkSum": "0cbcc3023da5196d9d9787bc79f8d781e3984642",
+			"size": 77292619,
+			"tvVideo": "/hungariandance_1478071174327/hungariandance_tv.mp4",
+			"touchVersion": 1467686632302,
+			"touchCheckSum": "2fbfeb69f875314fd5fff8c196c5993dce5a5148",
+			"touchVideo": "/touch/hungariandance_1467686632302.mp4",
+			"touchDuration": 143000,
+			"touchSize": 17999809,
+			"touchEasy": 2,
+			"touchNormal": 3,
+			"touchHard": 6,
+			"credits": ["Written by Johannes Brahms (DP) (C); Lars Payne (PRS) (AR). Published by KPM APM (ASCAP). Courtesy of APM Music. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited."],
+			"songId": "HungarianDance",
+			"available": ["dance", "touch"],
+			"unlockCondition": {
+				"dance": {
+					"condition": "vip"
+				},
+				"touch": {
+					"condition": "vip"
+				}
+			},
+			"_id": "5dfb3ac5584b7ba5698a126f"
+		}, {
+			"bundleandroid": 0,
+			"bundleios": 1,
+			"artist": "奥莱乐团",
+			"name": "你好！曼波！",
+			"coaches": 2,
+			"duration": 180647,
+			"hlsVideo": "/JamboMambo/JamboMambo.m3u8",
+			"dashVideo": "/2079_a878664d89bc7e4ecb47e48323a58b35/2079.mpd",
+			"mp4Video": "/jambomambo_576p.mp4",
+			"version": 1478071189561,
+			"checkSum": "ed7f139d53e6ed120e3c8f9ab136abed25e2ca20",
+			"size": 97137857,
+			"tvVideo": "/jambomambo_1478071189561/jambomambo_tv.mp4",
+			"touchVersion": 1470969952294,
+			"touchCheckSum": "d62c4a1968f8917ef4cb16235dba87c411819cb5",
+			"touchVideo": "/touch/jambomambo_1470969952294.mp4",
+			"credits": ["Written by Antonio Diaz Lopez.  Published by Extreme Production Music USA (ASCAP)  Courtesy of Extreme Music. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited."],
+			"songId": "JamboMambo",
+			"available": ["dance"],
+			"unlockCondition": {
+				"dance": {
+					"condition": "free"
+				}
+			},
+			"_id": "5dfb3ac5584b7ba5698a1270"
+		}, {
+			"bundleandroid": 0,
+			"bundleios": 1,
+			"artist": "宝莱坞",
+			"name": "当我抱你时",
+			"coaches": 2,
+			"duration": 207280,
+			"hlsVideo": "/KattiKalandal/KattiKalandal.m3u8",
+			"dashVideo": "/2088_3d7d9ceb78253a8bcbdb60e1efcd9ca7/2088.mpd",
+			"mp4Video": "/kattikalandal_576p.mp4",
+			"version": 1478071236652,
+			"checkSum": "ce03baef5d9447cffe70dfe540cdaf16116fe739",
+			"size": 111399193,
+			"tvVideo": "/kattikalandal_1478071236652/kattikalandal_tv.mp4",
+			"touchVersion": 1470969958894,
+			"touchCheckSum": "c5498343b36d2bb0850d1473ca7bda301960cf2c",
+			"touchVideo": "/touch/kattikalandal_1470969958894.mp4",
+			"credits": ["Written by Veilumuth Chitralekha (NS) and Tony Tape (GEMA). Published by Sonoton APM (ASCAP) / Sonoton Music GmbH CO KG (GEMA). Courtesy of APM Music. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited."],
+			"songId": "KattiKalandal",
+			"available": ["dance"],
+			"unlockCondition": {
+				"dance": {
+					"condition": "free"
+				}
+			},
+			"_id": "5dfb3ac5584b7ba5698a1271"
+		}, {
+			"bundleandroid": 0,
+			"bundleios": 1,
+			"artist": "宝莱坞彩虹",
+			"name": "你的弟弟疯了",
+			"coaches": 2,
+			"duration": 174880,
+			"hlsVideo": "/Kurio/Kurio.m3u8",
+			"dashVideo": "/2097_f0ae7dfaacf3cdb9c3083f034fb926e3/2097.mpd",
+			"mp4Video": "/kurio_576p.mp4",
+			"version": 1478071279313,
+			"checkSum": "338e047fdcb3f3c3fe0053b1488962ea89f85728",
+			"size": 94081003,
+			"tvVideo": "/kurio_1478071279313/kurio_tv.mp4",
+			"touchVersion": 1470969965733,
+			"touchCheckSum": "333665051aa32b574482d5454cb1d71dd5bb44f7",
+			"touchVideo": "/touch/kurio_1470969965733.mp4",
+			"credits": ["Written by Laxman (IPRS) / Kohli (IPRS). Published by The Extreme Music Library Ltd (PRS). Courtesy of Extreme Music. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited."],
+			"songId": "Kurio",
+			"available": ["dance"],
+			"unlockCondition": {
+				"dance": {
+					"condition": "vip"
+				}
+			},
+			"_id": "5dfb3ac5584b7ba5698a1272"
+		}, {
+			"artist": "筷子兄弟",
+			"name": "小苹果",
+			"coaches": 2,
+			"duration": 211320,
+			"version": 1473402274078,
+			"size": 110856713,
+			"checkSum": "2268445369cc4d101c854f452c122ce44432f0ff",
+			"tvVideo": "/littleapplechn_1473402274078/littleapplechn_tv.mp4",
+			"touchVideo": "/touch/littleapplechn_1474271876085.mp4",
+			"touchVersion": 1474271876085,
+			"touchCheckSum": "b2da12e1cb72761982b3b2b946370a5b6bb5b088",
+			"touchDuration": 112000,
+			"touchSize": 17146271,
+			"touchEasy": 2,
+			"touchNormal": 5,
+			"touchHard": 9,
+			"credits": ["Composed by Wang Taili, with lyrics by Wang Taili. Published by Wang Taili. Courtesy of Chopstick Brothers."],
+			"songId": "LittleAppleCHN",
+			"available": ["dance", "touch"],
+			"unlockCondition": {
+				"dance": {
+					"condition": "free"
+				},
+				"touch": {
+					"condition": "free"
+				}
+			},
+			"_id": "5dfb3ac5584b7ba5698a1273"
+		}, {
+			"bundleandroid": 0,
+			"bundleios": 1,
+			"artist": "拉丁日暮",
+			"name": "火热辣妈",
+			"coaches": 2,
+			"duration": 184000,
+			"hlsVideo": "/Mamasita/Mamasita.m3u8",
+			"dashVideo": "/2111_be1070bdba0f91c7032f4985f47be388/2111.mpd",
+			"mp4Video": "/mamasita_576p.mp4",
+			"version": 1478071299714,
+			"checkSum": "e24adf4fd39e77fff8de3137a9ccd7502e59b750",
+			"size": 98468881,
+			"tvVideo": "/mamasita_1478071299714/mamasita_tv.mp4",
+			"touchVersion": 1470969972445,
+			"touchCheckSum": "bb5c3997327cc528adae8049b3829df56eadd68e",
+			"touchVideo": "/touch/mamasita_1470969972445.mp4",
+			"touchDuration": 126000,
+			"touchSize": 12885201,
+			"touchEasy": 3,
+			"touchNormal": 4,
+			"touchHard": 8,
+			"credits": ["''Mamasita'' Written by Diggler (PRS), Patrick Sim Sturrock (PRS), and Spike T (PRS). Published by Extreme Production Music USA (ASCAP) Courtesy of Extreme Music All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited."],
+			"songId": "Mamasita",
+			"available": ["dance", "touch"],
+			"unlockCondition": {
+				"dance": {
+					"condition": "vip"
+				},
+				"touch": {
+					"condition": "vip"
+				}
+			},
+			"_id": "5dfb3ac5584b7ba5698a1274"
+		}, {
+			"bundleandroid": 0,
+			"bundleios": 1,
+			"artist": "督察马修",
+			"name": "爆破大师",
+			"coaches": 2,
+			"duration": 184720,
+			"hlsVideo": "/MasterBlaster/MasterBlaster.m3u8",
+			"dashVideo": "/2118_43160a26b9b65a3b39a9ee2d3ab2fe9c/2118.mpd",
+			"mp4Video": "/masterblaster_576p.mp4",
+			"version": 1478071316509,
+			"checkSum": "57fa3b8b933ca71adbd6019c67bbaefbe309fb35",
+			"size": 99011825,
+			"tvVideo": "/masterblaster_1478071316509/masterblaster_tv.mp4",
+			"touchVersion": 1470969979213,
+			"touchCheckSum": "ebe4cd5a2502a04aacab46f48fa0d5352f3279e4",
+			"touchVideo": "/touch/masterblaster_1470969979213.mp4",
+			"credits": ["Inspector Marceau – ''The Master Blaster'' Written by Lawrence Cottle (PRS) (C ). Published by Bruton APM (ASCAP). Courtesy of APM Music. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited."],
+			"songId": "MasterBlaster",
+			"available": ["dance"],
+			"unlockCondition": {
+				"dance": {
+					"condition": "vip"
+				}
+			},
+			"_id": "5dfb3ac5584b7ba5698a1275"
+		}, {
+			"bundleandroid": 0,
+			"bundleios": 1,
+			"artist": "珊米",
+			"name": "明白小姐",
+			"coaches": 1,
+			"duration": 220760,
+			"hlsVideo": "/MisUnderstood/MisUnderstood.m3u8",
+			"dashVideo": "/2119_2c72ff009b3088457ef3979bda122747/2119.mpd",
+			"mp4Video": "/misunderstood_576p.mp4",
+			"avatarNumber": 148,
+			"checkSum": "010e2337f2ec0bcd08fa66f52cb693fdcb687818",
+			"version": 1471489146550,
+			"size": 118926442,
+			"tvVideo": "/misunderstood_1471489146550/misunderstood_tv.mp4",
+			"touchDuration": 125000,
+			"touchSize": 11366373,
+			"touchEasy": 2,
+			"touchNormal": 3,
+			"touchHard": 6,
+			"touchVersion": 1474613523661,
+			"touchCheckSum": "4f6a15dd3da3f68fb2d254cdb106a2ee4ffdc652",
+			"touchVideo": "/touch/misunderstood_1474613523661.mp4",
+			"credits": ["Courtesy of Ubiloud. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited."],
+			"songId": "Misunderstood",
+			"available": ["dance", "touch"],
+			"unlockCondition": {
+				"dance": {
+					"condition": "free"
+				},
+				"touch": {
+					"condition": "free"
+				}
+			},
+			"_id": "5dfb3ac5584b7ba5698a1276"
+		}, {
+			"bundleandroid": 0,
+			"bundleios": 1,
+			"artist": "查尔斯顿",
+			"name": "麦格希的谎言",
+			"coaches": 2,
+			"duration": 132960,
+			"hlsVideo": "/MugsyBaloney/MugsyBaloney.m3u8",
+			"dashVideo": "/2126_4a1ce2e6c7bfcb05dc57362ad6562efa/2126.mpd",
+			"mp4Video": "/mugsybaloney_576p.mp4",
+			"version": 1478071335724,
+			"checkSum": "8c09ada79cd7fc44a579c39a8e4c4dd05f142ebc",
+			"size": 71069428,
+			"tvVideo": "/mugsybaloney_1478071335724/mugsybaloney_tv.mp4",
+			"touchVersion": 1470969992616,
+			"touchCheckSum": "1ede32d5e421c47fe55a65800415f804d9fdcccb",
+			"touchVideo": "/touch/mugsybaloney_1470969992616.mp4",
+			"credits": ["Written by Gert Wilden. Published by Extreme Production Music USA (ASCAP) and Brilliant-Musik Switzerland Joachim Tautz (SUISA) Courtesy of Extreme Music. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited."],
+			"songId": "MugsyBaloney",
+			"available": ["dance", "touch"],
+			"unlockCondition": {
+				"dance": {
+					"condition": "vip"
+				},
+				"touch": {
+					"condition": "vip"
+				}
+			},
+			"_id": "5dfb3ac5584b7ba5698a1277"
+		}, {
+			"bundleandroid": 0,
+			"bundleios": 1,
+			"artist": "尼克·菲尼克斯与托马斯·贝格森",
+			"name": "搞笑南瓜教授",
+			"coaches": 2,
+			"duration": 157520,
+			"hlsVideo": "/ProfesseurDLC/ProfesseurDLC.m3u8",
+			"dashVideo": "/2155_e9c3230d4d77338b06684a067b78a8f6/2155.mpd",
+			"mp4Video": "/professeurdlc_576p.mp4",
+			"version": 1478071349121,
+			"avatarNumber": 28,
+			"checkSum": "a632df80cdd8e60490c765dfeb5ff5983c1a7ded",
+			"size": 84457363,
+			"tvVideo": "/professeurdlc_1478071349121/professeurdlc_tv.mp4",
+			"touchDuration": 116000,
+			"touchSize": 13517977,
+			"touchEasy": 3,
+			"touchNormal": 3,
+			"touchHard": 7,
+			"touchVersion": 1470969999502,
+			"touchCheckSum": "d97e0254988a0c9697fe715b86e1ebd6bb364f89",
+			"touchVideo": "/touch/professeurdlc_1470969999502.mp4",
+			"credits": ["Composed by Nick Phoenix and Thomas Bergersen. Published by Extreme Music Production USA. Courtesy of Extreme Music.  All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited."],
+			"songId": "ProfesseurDLC",
+			"available": ["dance", "touch"],
+			"unlockCondition": {
+				"dance": {
+					"condition": "free"
+				},
+				"touch": {
+					"condition": "free"
+				}
+			},
+			"_id": "5dfb3ac5584b7ba5698a1279"
+		}, {
+			"bundleandroid": 0,
+			"bundleios": 1,
+			"artist": "霍雷肖·邓肯与阿莫斯·斯维茨",
+			"name": "随河而去",
+			"coaches": 1,
+			"duration": 129919,
+			"hlsVideo": "/RiverSide/RiverSide.m3u8",
+			"dashVideo": "/2164_7607c3f1c3d3edd44117b085b96df791/2164.mpd",
+			"mp4Video": "/riverside_576p.mp4",
+			"version": 1478071366565,
+			"checkSum": "bb7341a8b6620afb5efb904abaaa3caea773add4",
+			"size": 69100388,
+			"tvVideo": "/riverside_1478071366565/riverside_tv.mp4",
+			"touchVersion": 1470970006263,
+			"touchCheckSum": "adce4f258c242d49657095b062aa8fda252f2f7b",
+			"touchVideo": "/touch/riverside_1470970006263.mp4",
+			"credits": ["Composed by The Reverend Horatio Duncan (ASCAP) & Amos Sweets (ASCAP) Published by Extreme Production Music USA (ASCAP) Courtesy of Extreme Music All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited."],
+			"songId": "RiverSide",
+			"available": ["dance"],
+			"unlockCondition": {
+				"dance": {
+					"condition": "free"
+				}
+			},
+			"_id": "5dfb3ac5584b7ba5698a127a"
+		}, {
+			"bundleandroid": 0,
+			"bundleios": 1,
+			"artist": "光速战队",
+			"name": "氮气机器人",
+			"coaches": 2,
+			"duration": 188520,
+			"hlsVideo": "/RobotRock/RobotRock.m3u8",
+			"dashVideo": "/2166_04d93f7f267ef420d1d89cf4b6d30331/2166.mpd",
+			"mp4Video": "/robotrock_576p.mp4",
+			"version": 1478071381083,
+			"avatarNumber": 107,
+			"tvVideo": "/robotrock_1478071381083/robotrock_tv.mp4",
+			"checkSum": "6dad200e24abdfe3a4fe9f79174eaf824a26dbcd",
+			"size": 100536920,
+			"touchVersion": 1464937266800,
+			"touchCheckSum": "c3ad08c35d89788304fb7082b14ef7815a278ba1",
+			"touchVideo": "/touch/robotrock_1464937266800.mp4",
+			"touchDuration": 117000,
+			"touchSize": 15422257,
+			"touchEasy": 1,
+			"touchNormal": 3,
+			"touchHard": 6,
+			"credits": ["Courtesy of Ubiloud. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited."],
+			"songId": "RobotRock",
+			"available": ["dance", "touch"],
+			"unlockCondition": {
+				"dance": {
+					"condition": "free"
+				},
+				"touch": {
+					"condition": "free"
+				}
+			},
+			"_id": "5dfb3ac5584b7ba5698a127b"
+		}, {
+			"artist": "布祖基乐队",
+			"name": "英雄的瑟塔基舞曲",
+			"coaches": 3,
+			"duration": 173365,
+			"hlsVideo": "/Sirtaki/Sirtaki.m3u8",
+			"dashVideo": "/2181_cd03591729205d50789bdcf9e4d4a108/2181.mpd",
+			"mp4Video": "/sirtaki_576p.mp4",
+			"version": 1478071420418,
+			"tvVideo": "/sirtaki_1478071420418/sirtaki_tv.mp4",
+			"checkSum": "c9a8b332762445bf34696188ed9376d3fb5d3d2b",
+			"size": 91947005,
+			"touchVersion": 1470970012937,
+			"touchCheckSum": "4193e19eedb8be7dd81dcb0d6be2d9884ee4120f",
+			"touchVideo": "/touch/sirtaki_1470970012937.mp4",
+			"touchDuration": 106000,
+			"touchSize": 15965344,
+			"touchEasy": 2,
+			"touchNormal": 5,
+			"touchHard": 7,
+			"credits": ["Composed and Produced by Steve Ouimette. Engineering: Steve Ouimette, Cat Gray. Mix: Rob Beaton, Steve Ouimette. Percussion: Cat Gray. Bouzouki, bass, guitars: Steve Ouimette. Music supervision: Alkis Argyriadis, Manu Bachet."],
+			"songId": "Sirtaki",
+			"available": ["dance", "touch"],
+			"unlockCondition": {
+				"dance": {
+					"condition": "free"
+				},
+				"touch": {
+					"condition": "free"
+				}
+			},
+			"_id": "5dfb3ac5584b7ba5698a127c"
+		}, {
+			"artist": "旋律世纪",
+			"name": "心灵探索",
+			"coaches": 1,
+			"duration": 191800,
+			"hlsVideo": "/SoulSearch/SoulSearch.m3u8",
+			"dashVideo": "/2187_b3faff5af888fa384bf4105d16375690/2187.mpd",
+			"mp4Video": "/soulsearch_576p.mp4",
+			"version": 1478071443188,
+			"checkSum": "7d3aecb8628e46012275b5d465f8dedb56406685",
+			"size": 103239815,
+			"tvVideo": "/soulsearch_1478071443188/soulsearch_tv.mp4",
+			"touchVersion": 1470970019685,
+			"touchCheckSum": "e60e6804a1db51a9198b34cd9b61b65b18b7addc",
+			"touchVideo": "/touch/soulsearch_1470970019685.mp4",
+			"touchDuration": 107000,
+			"touchSize": 6705633,
+			"touchEasy": 2,
+			"touchNormal": 3,
+			"touchHard": 7,
+			"credits": ["Written by Mark G Hart and Stephen Emil Dudas.  Published by Extreme Production Music USA (ASCAP)  Courtesy of Extreme Music. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited."],
+			"songId": "SoulSearch",
+			"available": ["dance", "touch"],
+			"unlockCondition": {
+				"dance": {
+					"condition": "vip"
+				},
+				"touch": {
+					"condition": "vip"
+				}
+			},
+			"_id": "5dfb3ac5584b7ba5698a127d"
+		}, {
+			"artist": "光速战队",
+			"name": "光波超人",
+			"coaches": 4,
+			"duration": 223680,
+			"hlsVideo": "/SpectronizerQUAT/SpectronizerQUAT.m3u8",
+			"dashVideo": "/2189_bbab875973b929e78e9ee56463a430e3/2189.mpd",
+			"mp4Video": "/spectronizerquat_576p.mp4",
+			"tvVideo": "/spectronizerquat_1478071458155/spectronizerquat_tv.mp4",
+			"checkSum": "f936edae17600a022a35f935a21e3e9047c742d7",
+			"version": 1478071458155,
+			"size": 119455923,
+			"touchVersion": 1464937280646,
+			"touchCheckSum": "41526d654532658797e5b398b131a60950ef66c5",
+			"touchVideo": "/touch/spectronizerquat_1464937280646.mp4",
+			"touchDuration": 104000,
+			"touchSize": 12012178,
+			"touchEasy": 1,
+			"touchNormal": 2,
+			"touchHard": 6,
+			"credits": ["Written by Tom Salta and Gomi Kazuhiko.  Published by Ubisoft Music. Courtesy of You B Tuned / Ubisoft."],
+			"songId": "SpectronizerQUAT",
+			"available": ["dance", "touch"],
+			"unlockCondition": {
+				"dance": {
+					"condition": "free"
+				},
+				"touch": {
+					"condition": "free"
+				}
+			},
+			"_id": "5dfb3ac5584b7ba5698a127e"
+		}, {
+			"artist": "女神天团",
+			"name": "扭一扭，摇一摇",
+			"coaches": 2,
+			"duration": 146216,
+			"hlsVideo": "/TwistShakeIt/TwistShakeIt.m3u8",
+			"dashVideo": "/2220_a526317afd014fbb8f6e4aec222e343f/2220.mpd",
+			"mp4Video": "/twistshakeit_576p.mp4",
+			"version": 1478071701467,
+			"checkSum": "9569dd90e9f4e899d415a31a180d9ae8eca1e091",
+			"size": 77531185,
+			"tvVideo": "/twistshakeit_1478071701467/twistshakeit_tv.mp4",
+			"touchVersion": 1470970026218,
+			"touchCheckSum": "c0b98a26363d71fe0a57763ed7852f72870713ef",
+			"touchVideo": "/touch/twistshakeit_1470970026218.mp4",
+			"touchDuration": 99000,
+			"touchSize": 8486059,
+			"touchEasy": 3,
+			"touchNormal": 4,
+			"touchHard": 7,
+			"credits": ["Written by Ben Wheeler and Tara Chinn.  Published by KPM APM (ASCAP).  Courtesy of APM Music. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited."],
+			"songId": "TwistShakeIt",
+			"available": ["dance", "touch"],
+			"unlockCondition": {
+				"dance": {
+					"condition": "free"
+				},
+				"touch": {
+					"condition": "free"
+				}
+			},
+			"_id": "5dfb3ac5584b7ba5698a127f"
+		}, {
+			"artist": "克隆圣诞老人",
+			"name": "疯狂圣诞",
+			"coaches": 1,
+			"duration": 181339,
+			"hlsVideo": "/Xmas/Xmas.m3u8",
+			"dashVideo": "/2243_065cfea243c063ee66dcfdd193f175f1/2243.mpd",
+			"mp4Video": "/xmas_576p.mp4",
+			"version": 1478071739545,
+			"tvVideo": "/xmas_1478071739545/xmas_tv.mp4",
+			"checkSum": "b86e7e86734d3c887639aedaddbd81335582c823",
+			"size": 95936694,
+			"touchVersion": 1470970039426,
+			"touchCheckSum": "f6a6b49ad2e38461e2de64f2b95af3b8d538dd93",
+			"touchVideo": "/touch/xmas_1470970039426.mp4",
+			"credits": ["Contains samples of ''Jingle Bells 2'' by O. Sieben and J. Pierpont, ''O Christmas Surf'' by R. Abernethy, ''We Wish U A Merry Skaristmas'' by Doc Martin, ''Country Bells'' by Ossi Bashiri and ''We Wish You An Indie Christmas'' by Russell Jason Emanuel, Dolphin Taylor, and Phillmore Oakes. Courtesy of APM Music and Extreme Music. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited."],
+			"songId": "Xmas",
+			"available": ["dance"],
+			"unlockCondition": {
+				"dance": {
+					"condition": "free"
+				}
+			},
+			"_id": "5dfb3ac5584b7ba5698a1281"
+		}, {
+			"artist": "神祇乐团",
+			"name": "伊西多拉",
+			"coaches": 1,
+			"duration": 149400,
+			"hlsVideo": "/Zagreb/Zagreb.m3u8",
+			"dashVideo": "/2247_e226cac51366be4d5f413bd1f2d6f0e1/2247.mpd",
+			"mp4Video": "/zagreb_576p.mp4",
+			"avatarNumber": 155,
+			"tvVideo": "/zagreb_1478071755475/zagreb_tv.mp4",
+			"checkSum": "a5189f80dbc664befb8ae3dfaabb93ffb42e2ddd",
+			"version": 1478071755475,
+			"size": 80090603,
+			"touchVersion": 1464937293898,
+			"touchCheckSum": "d32f32903cef215ac26b151dda81bb7195415d50",
+			"touchVideo": "/touch/zagreb_1464937293898.mp4",
+			"touchDuration": 90000,
+			"touchSize": 4899246,
+			"touchEasy": 1,
+			"touchNormal": 5,
+			"touchHard": 9,
+			"credits": ["Composed and produced by Steve Ouimette. Lyrics: Mislav Brecic. Vocals: Geoff Tyson, 4 Jacks and a Jill. Percussion, accordion: Cat Gray. Guitars: Steve Ouimette. Trumpet: James Davis. Saxophone: Doug Rosenberg, alto. Trombone: Andrew Zelm. Tuba: ''Tuba'' Joe Exley. Additional engineering: Anthony Gravino, Cat Gray, Geoff Tyson. Mix by Rob Beaton. Music Supervision: Manu Bachet, Alkis Argyriadis. Special thanks to Nino Sapina. Courtesy of Ubisoft Music."],
+			"songId": "Zagreb",
+			"available": ["dance", "touch"],
+			"unlockCondition": {
+				"dance": {
+					"condition": "free"
+				},
+				"touch": {
+					"condition": "free"
+				}
+			},
+			"_id": "5dfb3ac5584b7ba5698a1282"
+		}, {
+			"artist": "凤凰传奇",
+			"name": "最炫民族风",
+			"coaches": 1,
+			"duration": 237211,
+			"version": 1473402161521,
+			"size": 125980401,
+			"checkSum": "8af47ff84525d4c7f534f5fc3a0de16704b44da2",
+			"tvVideo": "/jdccoolestethnic_1473402161521/jdccoolestethnic_tv.mp4",
+			"touchVideo": "/touch/jdccoolestethnic_1474271848195.mp4",
+			"touchVersion": 1474271848195,
+			"touchCheckSum": "196e11eda22c9d608cedc82886a3ae66c41996bb",
+			"touchDuration": 113000,
+			"touchSize": 19491348,
+			"touchEasy": 2,
+			"touchNormal": 4,
+			"touchHard": 8,
+			"credits": ["CREDITS STRING TO BE FILLED"],
+			"songId": "JDCCoolestEthnic",
+			"available": ["dance", "touch"],
+			"unlockCondition": {
+				"dance": {
+					"condition": "free"
+				},
+				"touch": {
+					"condition": "free"
+				}
+			},
+			"_id": "5dfb3ac5584b7ba5698a128d"
+		}, {
+			"artist": "SNH48",
+			"name": "盛夏好声音",
+			"coaches": 1,
+			"size": 123914363,
+			"tvVideo": "/jdcsummervoice_1473402243539/jdcsummervoice_tv.mp4",
+			"touchVideo": "/touch/jdcsummervoice_1474271869235.mp4",
+			"version": 1473402243539,
+			"duration": 234000,
+			"checkSum": "b6082157dbac7718d3aadae045c504749db5a688",
+			"touchVersion": 1474271869235,
+			"touchCheckSum": "48176dd268b031b2036a48ee48e28335c5ce106b",
+			"touchDuration": 117000,
+			"touchSize": 11507954,
+			"touchEasy": 2,
+			"touchNormal": 5,
+			"touchHard": 6,
+			"credits": ["CREDITS STRING TO BE FILLED"],
+			"songId": "JDCSummerVoice",
+			"available": ["dance", "touch"],
+			"unlockCondition": {
+				"dance": {
+					"condition": "free"
+				},
+				"touch": {
+					"condition": "free"
+				}
+			},
+			"_id": "5dfb3ac5584b7ba5698a128f"
+		}, {
+			"artist": "喝醉的小狗",
+			"name": "吉娃娃",
+			"coaches": 1,
+			"duration": 171680,
+			"checkSum": "6c3f44155b4e99e7cd14b631820b96878cce31cb",
+			"version": 1478070917189,
+			"size": 91837718,
+			"hlsVideo": "/Chiwawa/Chiwawa.m3u8",
+			"tvVideo": "/chiwawa_1478070917189/chiwawa_tv.mp4",
+			"touchVideo": "/touch/chiwawa_1465195637202.mp4",
+			"touchVersion": 1465195637202,
+			"touchCheckSum": "de50115dabe7c54cb531f421beb98be233c9c1a4",
+			"touchDuration": 114000,
+			"touchSize": 13401497,
+			"touchEasy": 2,
+			"touchNormal": 7,
+			"touchHard": 9,
+			"credits": ["Written by Reni Mimura and Tom Salta. Published by Ubisoft Music Publishing. Courtesy of Ubisoft Music. Produced and performed by Tom Salta. Vocals by Reni Mimura, Tom Salta, anonymous cats and dogs. Music supervision - Manu Bachet and Alkis Argyriadis. No animal were harmed in the making of this song."],
+			"songId": "Chiwawa",
+			"available": ["dance", "touch"],
+			"unlockCondition": {
+				"dance": {
+					"condition": "free"
+				},
+				"touch": {
+					"condition": "free"
+				}
+			},
+			"_id": "5dfb3ac5584b7ba5698a1292"
+		}, {
+			"artist": "荣耀黑带",
+			"name": "功夫",
+			"coaches": 2,
+			"duration": 164200,
+			"checkSum": "b2530eaa96616986e216961bfe5e6e53f1b344a9",
+			"version": 1478071253664,
+			"size": 85856782,
+			"hlsVideo": "/KungFunk/KungFunk.m3u8",
+			"tvVideo": "/kungfunk_1478071253664/kungfunk_tv.mp4",
+			"touchVideo": "/touch/kungfunk_1464937252751.mp4",
+			"touchVersion": 1464937252751,
+			"touchCheckSum": "0f4f7c43a2d40114c448a0029bf83bbb029783ae",
+			"touchDuration": 131000,
+			"touchSize": 13900220,
+			"touchEasy": 2,
+			"touchNormal": 3,
+			"touchHard": 9,
+			"credits": ["Published by Ubisoft Music Publishing. Courtesy of Ubisoft Music. Composed and produced by Steve Ouimette. All instruments - Steve Ouimette and Cat Gray. Mixed by Cat Gray and Steve Ouimette. Music supervision - Manu Bachet and Alkis Argyriadis."],
+			"songId": "KungFunk",
+			"available": ["dance", "touch"],
+			"unlockCondition": {
+				"dance": {
+					"condition": "free"
+				},
+				"touch": {
+					"condition": "free"
+				}
+			},
+			"_id": "5dfb3ac5584b7ba5698a1293"
+		}, {
+			"artist": "狄娃·卡米娜",
+			"name": "曼波来了",
+			"coaches": 1,
+			"duration": 182803,
+			"checkSum": "bedc8bd21a4bc9119f21b49138fa7784ef0e9b04",
+			"version": 1478070936277,
+			"size": 98059141,
+			"hlsVideo": "/ElectroMambo/ElectroMambo.m3u8",
+			"tvVideo": "/electromambo_1478070936277/electromambo_tv.mp4",
+			"touchVersion": 1464937239205,
+			"touchCheckSum": "fa877c48163e609b120ccef5f89786cdd42eaca1",
+			"touchVideo": "/touch/electromambo_1464937239205.mp4",
+			"touchDuration": 123000,
+			"touchSize": 17521137,
+			"touchEasy": 3,
+			"touchNormal": 4,
+			"touchHard": 8,
+			"credits": ["Written by: Tom Salta, Nikki Leonti, Letty Rivera, Angela Clemmons. Published by Ubisoft Music Publishing. Courtesy of Ubisoft Music. Produced and Mixed by: Tom Salta. Vocalists: Nikki Leonti, Angela Clemmons, Marcos Bermudez, Tom Salta. Operatic Vocals: Jeanette Vecchione. Gang Vocals: Don Harris, Jeff Harris, Angela Lynch, Tom Salta. Trumpet, Sax and Trombone: The Harris Bros Horns. Percussion: Gumbi Ortiz. Bass: Gene Perez. Special Thanks: Philippe Saisse, Jose Madera, John Rodriguez. Music supervision - Manu Bachet and Alkis Argyriadis."],
+			"songId": "ElectroMambo",
+			"available": ["dance", "touch"],
+			"unlockCondition": {
+				"dance": {
+					"condition": "free"
+				},
+				"touch": {
+					"condition": "free"
+				}
+			},
+			"_id": "5dfb3ac5584b7ba5698a129a"
+		}, {
+			"artist": "欧卡拉甘乐队",
+			"name": "爱尔兰草甸舞曲",
+			"coaches": 4,
+			"duration": 156751,
+			"checkSum": "d73daa406a809511ec5b255e2e177620d8eda6ea",
+			"version": 1478071397855,
+			"size": 83368572,
+			"hlsVideo": "/SaintPatrick/SaintPatrick.m3u8",
+			"tvVideo": "/saintpatrick_1478071397855/saintpatrick_tv.mp4",
+			"touchVersion": 1464937273804,
+			"touchCheckSum": "3e5c8abe1c48373c150625011c13ec60f799e65c",
+			"touchVideo": "/touch/saintpatrick_1464937273804.mp4",
+			"touchDuration": 113000,
+			"touchSize": 14537379,
+			"touchEasy": 2,
+			"touchNormal": 3,
+			"touchHard": 6,
+			"credits": ["Published by Ubisoft Music Publishing. Courtesy of Ubisoft Music. Composed and produced by Steve Ouimette. Éanán Patterson - violin. Alan Doherty - whistle. Maitiú Ó Casaide - pipes. Steve Ouimette - acoustic guitar, bouzouki, bodhran. Mixed by Rob Beaton. Additional engineering - Éanán Patterson. Music supervision - Manu Bachet and Alkis Argyriadis."],
+			"songId": "SaintPatrick",
+			"available": ["dance", "touch"],
+			"unlockCondition": {
+				"dance": {
+					"condition": "vip"
+				},
+				"touch": {
+					"condition": "vip"
+				}
+			},
+			"_id": "5dfb3ac5584b7ba5698a129b"
+		}, {
+			"artist": "英伯斯",
+			"name": "嗨翻今夜",
+			"coaches": 1,
+			"duration": 198800,
+			"checkSum": "6c58e8ff23305732f8b16ad37116547c614f7eb5",
+			"version": 1478071480561,
+			"size": 106213396,
+			"hlsVideo": "/StadiumFlow/StadiumFlow.m3u8",
+			"tvVideo": "/stadiumflow_1478071480561/stadiumflow_tv.mp4",
+			"touchVersion": 1465195644085,
+			"touchCheckSum": "37d1870ce3e27195135aec1c82c3bec1ff09cc81",
+			"touchVideo": "/touch/stadiumflow_1465195644085.mp4",
+			"touchDuration": 119000,
+			"touchSize": 7212457,
+			"touchEasy": 2,
+			"touchNormal": 4,
+			"touchHard": 7,
+			"credits": ["Written by Louis XIII and Rimsky. Produced by Louis XIII. Published by Ubisoft Music Publishing. Courtesy of Ubisoft Music.  Published by Ubisoft Music Publishing. Courtesy of Ubisoft Music. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited."],
+			"songId": "StadiumFlow",
+			"available": ["dance", "touch"],
+			"unlockCondition": {
+				"dance": {
+					"condition": "free"
+				},
+				"touch": {
+					"condition": "free"
+				}
+			},
+			"_id": "5dfb3ac5584b7ba5698a129c"
+		}, {
+			"artist": "罗西尼",
+			"name": "《威廉·退尔》序曲",
+			"coaches": 2,
+			"duration": 163440,
+			"checkSum": "9026bda4c2bb52c56c37d449dc8bb7e91c52ddea",
+			"version": 1478071715040,
+			"size": 87458295,
+			"hlsVideo": "/WilliamTell/WilliamTell.m3u8",
+			"tvVideo": "/williamtell_1478071715040/williamtell_tv.mp4",
+			"touchVersion": 1467686617197,
+			"touchCheckSum": "cfff925aea6e4c3748d6d054a70f1b80beb19bed",
+			"touchVideo": "/touch/williamtell_1467686617197.mp4",
+			"touchDuration": 163000,
+			"touchSize": 20414723,
+			"touchEasy": 3,
+			"touchNormal": 4,
+			"touchHard": 8,
+			"credits": ["Written by Gioacchino Rossini. Courtesy of Extreme Music."],
+			"songId": "WilliamTell",
+			"available": ["dance", "touch"],
+			"unlockCondition": {
+				"dance": {
+					"condition": "free"
+				},
+				"touch": {
+					"condition": "free"
+				}
+			},
+			"_id": "5dfb3ac5584b7ba5698a129d"
+		}, {
+			"artist": "夏日甜心",
+			"name": "夏日甜心",
+			"coaches": 2,
+			"duration": 216240,
+			"checkSum": "f2d1ddf3ac675d2b925963d4afb4671291a426db",
+			"version": 1478071209293,
+			"hlsVideo": "/JDCSummerSweetie/JDCSummerSweetie.m3u8",
+			"tvVideo": "/jdcsummersweetie_1478071209293/jdcsummersweetie_tv.mp4",
+			"size": 114928757,
+			"touchVersion": 1472179163070,
+			"touchCheckSum": "64c74a78150638cfa9952c9025525d02bb46abbb",
+			"touchVideo": "/touch/jdcsummersweetie_1472179163070.mp4",
+			"touchDuration": 122000,
+			"touchSize": 18167080,
+			"touchEasy": 3,
+			"touchNormal": 4,
+			"touchHard": 9,
+			"credits": ["CREDITS STRING TO BE FILLED"],
+			"songId": "JDCSummerSweetie",
+			"available": ["dance", "touch"],
+			"unlockCondition": {
+				"dance": {
+					"condition": "free"
+				},
+				"touch": {
+					"condition": "free"
+				}
+			},
+			"_id": "5dfb3ac5584b7ba5698a12a1"
+		}
+	],
+	"songsHash": "f2665039f2cbdbdcb55dba53f44e82b7",
+	"result": "success",
+	"assetBundleURL": "https://mau.gdl.netease.com/jdc-web/jdc/client/res_35/13274/",
+	"serverAddress": "",
+	"songStreamURL": "https://mau.gdl.netease.com/jdc-web/jdc/stream",
+	"latestVersion": "1.2.13274",
+	"appDownloadAddress": "http://justdance.163.com",
+	"logUploadAddress": "10.192.1.37",
+	"appUpgradeAddress": "",
+	"appLandingPageAddress": ""
+}
